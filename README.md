@@ -65,6 +65,10 @@ Push this project to a GitHub repository and enable **GitHub Pages** in the repo
 
 Jekyll will automatically build and serve the site via GitHub Pages.
 
+## View in Codespaces
+
+When you open the project in Codespaces, use the command : `bundle exec jekyll serve --port 4000` to view the website.
+
 ## 🧩 Customize the Map
 
 To add or edit map markers, open the file:
