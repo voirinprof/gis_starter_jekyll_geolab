@@ -6,5 +6,5 @@ plugins:
   - jekyll-seo-tag
 
 # Pour GitHub Pages
-baseurl: "" # ou "/nom-du-repo" si nécessaire
-url: "https://ton-utilisateur.github.io"
+baseurl: "/gis_starter_jekyll_geolab" # ou "/nom-du-repo" si nécessaire
+url: "https://voirinprof.github.io"
