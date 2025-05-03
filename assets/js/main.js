@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
         '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     }).addTo(map);
   
-    fetch("/assets/data/api-data.json")
+    fetch("/gis_starter_jekyll_geolab/assets/data/api-data.json")
       .then((response) => response.json())
       .then((data) => {
         data.locations.forEach((location) => {
