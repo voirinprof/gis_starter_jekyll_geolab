@@ -1,0 +1,54 @@
+{
+    "locations": [
+      {
+        "id": 1,
+        "name": "Basilique Notre-Dame",
+        "lat": 45.4215,
+        "lng": -73.7089,
+        "description": "Une église emblématique de Montréal."
+      },
+      {
+        "id": 2,
+        "name": "Vieux-Port de Montréal",
+        "lat": 45.5017,
+        "lng": -73.5540,
+        "description": "Un port historique de la ville."
+      },
+      {
+        "id": 3,
+        "name": "Mont Royal",
+        "lat": 45.5088,
+        "lng": -73.5878,
+        "description": "Un grand parc en plein cœur de Montréal."
+      },
+      {
+        "id": 4,
+        "name": "Place des Arts",
+        "lat": 45.5020,
+        "lng": -73.5784,
+        "description": "Le principal complexe culturel de Montréal."
+      },
+      {
+        "id": 5,
+        "name": "Marché Jean-Talon",
+        "lat": 45.5322,
+        "lng": -73.5891,
+        "description": "Un marché public bien connu pour ses produits frais."
+      },
+      {
+        "id": 6,
+        "name": "Musée des beaux-arts de Montréal",
+        "lat": 45.4950,
+        "lng": -73.5776,
+        "description": "Un musée d'art reconnu à Montréal."
+      },
+      {
+        "id": 7,
+        "name": "Le Plateau Mont-Royal",
+        "lat": 45.5240,
+        "lng": -73.5944,
+        "description": "Un quartier bohème très apprécié des habitants."
+      }
+    ]
+  }
+  

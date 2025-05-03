@@ -1,0 +1,10 @@
+title: Mon site GitHub Pages
+description: Un site statique avec Jekyll
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Pour GitHub Pages
+baseurl: "" # ou "/nom-du-repo" si nécessaire
+url: "https://ton-utilisateur.github.io"
